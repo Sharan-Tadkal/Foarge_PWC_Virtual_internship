@@ -2,14 +2,14 @@
 
 Hello I have completed the Virtual Internship Project by PWC. Here is a brief overview of my work in Power BI.
 
-Task 1 - Call Centre Trends - Visualising customer and agent behaviour.
+# Task 1 - Call Centre Trends - Visualising customer and agent behaviour.
 Create a dashboard in Power BI that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset.
 
 This task requires you to create a dashboard in Power BI that displays all the relevant KPIs and metrics related to call center trends. Possible KPIs include:
 
 Overall customer satisfaction: This KPI measures the satisfaction level of customers who contacted the call center for support. Overall calls answered/abandoned: This KPI measures the number of calls answered by agents versus the number of calls abandoned by customers. Calls by time: This KPI measures the volume of calls during different times of the day, week, or month. Average speed of answer: This KPI measures the average time taken by agents to answer customer calls. Agent’s performance quadrant -> average handle time (talk duration) vs calls answered: This KPI measures the performance of agents in terms of the average handle time of calls versus the number of calls answered.
 
-Task 2 - Customer Retention - Customer demographics and insights.
+# Task 2 - Customer Retention - Customer demographics and insights.
 Define proper KPIs:
 
 This task requires you to define the appropriate KPIs for the retention manager based on the dataset. Create a dashboard for the retention manager reflecting the KPIs:
@@ -18,7 +18,7 @@ This task requires you to create a dashboard that displays the defined KPIs for 
 
 This task requires you to write an email to the engagement partner, explaining the findings from the dashboard and providing suggestions on what needs to be changed to improve customer retention.
 
-Task 3 - Diversity & Inclusion - Gender Balance in Executive Suite
+# Task 3 - Diversity & Inclusion - Gender Balance in Executive Suite
 Gender balance in the executive suite:
 This task requires you to measure and analyze the gender balance in the executive suite and create appropriate KPIs based on the dataset. Calculating the following measures could help to define proper KPIs:
 No. of men: This KPI measures the number of male employees in the executive suite.
